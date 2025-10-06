@@ -45,7 +45,7 @@
 ---
 
 ## 🚀 Projects
-| 프로젝트<br> (Project) | 설명<br> (Description) | 수행기관<br> (Organization) | 링크<br> (Links) |
+| 프로젝트<br> (Project) | 설명<br> (Description) | 수행기관 (Organization) | 링크<br> (Links) |
 |:---|:---|:---|:---|
 | **영상 처리를 활용한 <br>Penalty Kick Game** <br> 📅(25.09.03 ~ 25.09.30) | - **AXI4-Lite 인터페이스를 기반**으로 직접 설계한 **하드웨어 &nbsp;&nbsp;&nbsp;IP**(BTN, UART, SCCB, VGA)를 연결하여 **SoC구조 구성**<br> -완성한 SoC 구조를 **임베디드 코딩**으로 제어<br> - UART 통신 및 PC와 FPGA간의 **통신 프로토콜 정의**<br> - **OV7670 카메라**에서 **VGA 디스플레이**로의 다양한<br>&nbsp;&nbsp;&nbsp;이미지 필터 구현 및 **SystemVerilog**를 통한 검증<br> - 1인 플레이 모드와 2인 플레이 모드로 구성 | 대한상공회의소<br>서울기술교육센터 | [영상 처리를 활용한 Penalty Kick Game](https://github.com/71105673/Ronaldo_Project) |
 | **512 Point FFT Module Design** <br> 📅(25.07.17 ~ 25.08.05) | - **MATLAB**을 활용해 **Radix-2 FFT**의 구조 이해<br> - **Floating-Point**와 **Fixed-Point** 분석<br> - **CBFP** 적용을 통한 SQNR 비교 <br> - **소프트웨어 모델링** 기반 **하드웨어 모듈** 설계<br> - **Synopsys EDA Tool**을 이용해 **RTL, Gate Level 합성 <br>&nbsp;&nbsp;&nbsp;및 결과 분석**<br> - **Vivado를 활용한 Simulation과 Bitstream**생성<br> - 알고리즘부터 **RTL 설계**, **Synthesis**, **FPGA Bitstream**<br>&nbsp;&nbsp;&nbsp;생성까지 전반적인 **Front-End** 과정 학습<br> | 대한상공회의소<br>서울기술교육센터 | [FFT Design](https://github.com/EunSeongL/FFT-Design) |
