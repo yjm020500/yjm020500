@@ -22,25 +22,99 @@
   </a>
 </p>
 
+
 ---
 
-## 💻 Tech Stacks
-<!-- 언어/알고리즘 -->
-<p>
-  <img src="https://img.shields.io/badge/Verilog-6857F7?style=flat-square&logo=verilog&logoColor=white" alt="Verilog"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-1F0A8A?style=flat-square&logo=verilog&logoColor=white" alt="SystemVerilog"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/MATLAB-D45B15?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB"/>
-</p>
 
-<!-- 툴/플랫폼 -->
-<p>
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-FF6F00?style=flat-square&logo=xilinx&logoColor=white" alt="Vivado"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
-</p>
+## 💻 Tech Stacks
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Verilog%2FSystemVerilog-6f42c1?logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/MATLAB-FF7F2A?logo=Mathworks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tcl-FF5F00?logoColor=white" />
+      <img src="https://img.shields.io/badge/Perl-39457E?logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>MCU</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/STM32%20Cortex--M3-0C4A6E?logo=stmicroelectronics&logoColor=white" />
+      <img src="https://img.shields.io/badge/AVR-EC1C24?logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>AP</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>IDE</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/STM32CubeIDE-0C4A6E?logo=stmicroelectronics&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microchip%20Studio-CC0000?logo=microchiptechnology&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?logo=arduino&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>EDA Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vivado-FFB81C?logo=xilinx&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vitis-E01F27?logo=xilinx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Quartus-0071C5?logo=intel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Questa-00B5E2?logo=siemens&logoColor=white" />
+      <img src="https://img.shields.io/badge/VCS-2E2E2E?logo=synopsys&logoColor=white" />
+      <img src="https://img.shields.io/badge/Verdi-2F915C?logo=synopsys&logoColor=white" />
+      <img src="https://img.shields.io/badge/Design%20Compiler-6E4C9A?logo=synopsys&logoColor=white" />
+      <img src="https://img.shields.io/badge/Custom%20Compiler-5B3F99?logo=synopsys&logoColor=white" />
+      <img src="https://img.shields.io/badge/Xcelium-FF6F00?logo=cadence&logoColor=white" />
+      <img src="https://img.shields.io/badge/SimVision-990000?logo=cadence&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Operating System</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-333333?logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Office</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoftword&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Frameworks, Platforms and Libraries</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
