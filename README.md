@@ -90,7 +90,6 @@
       <img src="https://img.shields.io/badge/Linux-333333?logo=linux&logoColor=white" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
       <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white" />
-      <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
     </td>
   </tr>
 
