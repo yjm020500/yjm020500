@@ -45,7 +45,7 @@
     <td><b>MCU</b></td>
     <td>
       <img src="https://img.shields.io/badge/STM32%20Cortex--M3-0C4A6E?logo=stmicroelectronics&logoColor=white" />
-      <img src="https://img.shields.io/badge/AVR-EC1C24?logoColor=white" />
+      <img src="https://img.shields.io/badge/ATmega128-EC1C24?logo=microchip&logoColor=white" /> 
       <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
     </td>
   </tr>
